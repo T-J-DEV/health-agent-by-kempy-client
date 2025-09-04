@@ -7,6 +7,8 @@
 
 ![Agent Banner](https://pub-e703fe367d8f47ddbffdb6e77e503192.r2.dev/banner.png)
 
+![Agent Dashboard Preview](https://pub-e703fe367d8f47ddbffdb6e77e503192.r2.dev/Screenshot%202025-09-04%20162609.png)
+
 Welcome to the **Kempys Health Agent**! This project is actively in development and will eventually become a **premium service** offering advanced features and seamless user experience.  
 
 ---
