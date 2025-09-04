@@ -56,7 +56,7 @@ Here’s a sneak peek of what’s on the horizon:
 Follow along with the project’s progress and get sneak peeks:
 
 - Discord: [Hit Me Up!](https://discord.com/users/1206971103612768317)  
-- GitHub Releases: [Coming Soon]  
+- GitHub Latest Releases: [Download](https://github.com/T-J-DEV/health-agent-by-kempy-client/releases)  
 
 ---
 
