@@ -5,7 +5,7 @@
 
 ---
 
-![Agent Banner](https://via.placeholder.com/800x200.png?text=Agent+Client)
+![Agent Banner](https://pub-e703fe367d8f47ddbffdb6e77e503192.r2.dev/banner.png)
 
 Welcome to the **Kempys Health Agent**! This project is actively in development and will eventually become a **premium service** offering advanced features and seamless user experience.  
 
@@ -51,7 +51,7 @@ Planned features for future releases:
 
 For updates and announcements, check out:
 
-- Discord: [https://discord.com/users/1206971103612768317]
+- Discord: [Hit Me Up!](https://discord.com/users/1206971103612768317)
 - GitHub Releases: [Coming Soon]  
 
 ---
