@@ -1,6 +1,6 @@
 # 🚀 Kempys Health Agent
 
-**Status:** ⚠️ *In Development*  
+**Status:** ⚠️ * v0.0.1 In Development*  
 
 ---
 
