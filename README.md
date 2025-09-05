@@ -8,13 +8,13 @@
 
 ![Agent Dashboard Preview](https://pub-e703fe367d8f47ddbffdb6e77e503192.r2.dev/Screenshot%202025-09-04%20162609.png)
 
-Welcome to the **Kempys Health Agent** — your future go-to tool for keeping your PC running smoothly! This project is actively in development and is being designed with **simplicity, speed, and user experience** at its core.  
+Welcome to **Health Agent** — your future go-to tool for keeping your PC running smoothly! This project is actively in development and is being designed with **simplicity, speed, and user experience** at its core.  
 
 ---
 
-## ✨ What is Kempys Health Agent?
+## ✨ What is Health Agent?
 
-Kempys Health Agent is a **lightweight, easy-to-use client** that will help you monitor, maintain, and optimize your PC. Its focus is on giving users a **fast, intuitive, and enjoyable experience** when managing their system health.
+Health Agent is a **lightweight, easy-to-use client** that will help you monitor, maintain, and optimize your PC. Its focus is on giving users a **fast, intuitive, and enjoyable experience** when managing their system health.
 
 ### Why You’ll Love It
 
@@ -60,7 +60,7 @@ Follow along with the project’s progress and get sneak peeks:
 
 ---
 
-> “Kempys Health Agent is designed to make PC maintenance effortless, fun, and rewarding. Exciting things are on the way!” 🚀
+> “Health Agent is designed to make PC maintenance effortless, fun, and rewarding. Exciting things are on the way!” 🚀
 
 ---
 
